@@ -111,13 +111,31 @@ types of DDOSs attack .
 
 MODULES:
 
-Dataset Collection
+1 Dataset Collection
 
-Data Pre-process
+2 Data Pre-process
 
-Detection  
+3 Detection  
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+**SCREENSHOT**
+
+![1](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/3111add9-adfe-4f83-af2c-e7d5ade968df)
+
+![Screenshot 2024-06-15 004448](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/d83ba49c-2963-4f97-9861-6fdc95835c05)
+
+![Screenshot 2024-06-15 004508](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/7b4523ca-79be-4879-8d5b-5f635966beff)
+
+![Screenshot 2024-06-15 004537](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/1f2a202f-ef74-49df-897a-455d80f9c088)
+
+![Screenshot 2024-06-15 004546](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/90ccd9e8-a8ae-4fa6-a3b1-e1372ed5a9b3)
+
+![Screenshot 2024-06-15 004610](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/84fa5ba4-d52e-4453-a72c-dc8324d9dc84)
+
+![Screenshot 2024-06-15 004646](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/6b860e38-7235-42a5-8881-fbbe99f776c6)
+
+![Screenshot 2024-06-15 004709](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/21cade63-ffc5-4957-82f9-09512749c1c8)
+
+![Screenshot 2024-06-15 004646](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/e840e662-c91e-45f8-9409-60c5eba8e9ab)
+
+
