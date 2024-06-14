@@ -1,1 +1,1 @@
-# Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-
+# Prediction of-DDoS-attacks-using-machine-learning-Computer-Science-major-project-
