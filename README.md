@@ -66,6 +66,15 @@ Challenges:
   
 
 **SYSTEM REQUIREMENTS**  
+
+Technologies used in the project:
+
+python
+
+machine learning
+
+anaconda
+
   
 
 **EXISTING SYSTEM**  
