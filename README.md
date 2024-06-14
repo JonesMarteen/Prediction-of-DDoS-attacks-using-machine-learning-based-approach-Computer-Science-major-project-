@@ -139,3 +139,17 @@ MODULES:
 ![Screenshot 2024-06-15 004646](https://github.com/JonesMarteen/Predictionof-DDoS-attacks-using-machine-learning-based-approach-Computer-Science-major-project-/assets/172665407/e840e662-c91e-45f8-9409-60c5eba8e9ab)
 
 
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+
+
+
+
+
