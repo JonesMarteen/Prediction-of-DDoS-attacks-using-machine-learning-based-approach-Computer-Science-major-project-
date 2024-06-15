@@ -1,7 +1,7 @@
 ### **<div align="center">A Machine Learning-Based Classification and Prediction Technique for DDoS Attacks</div>**  
   
 
-AIM  
+**AIM**
   
   
 
@@ -101,7 +101,7 @@ other algorithms and best working for
 classification problems.  
   
 
-ALGORITHM
+**ALGORITHM**
 
 After preprocessing dataset, that data will be given
 to the machine learning algorithm. Machine
