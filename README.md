@@ -40,28 +40,40 @@ This project aims to develop a system that utilizes machine learning (ML) for cl
 predicting Distributed Denial-of-Service (DDoS) attacks on a network. DDoS attacks 
 overwhelm a system with traffic, making it unavailable to legitimate users.
 Here's a breakdown of the key elements:
+
 • Machine Learning Techniques: The project will explore supervised learning 
 algorithms like Random Forest, Support Vector Machines (SVM), or XGBoost. These 
 algorithms will be trained on historical network traffic data labelled as normal or 
 containing DDoS attacks.
+
 • Data Pre-processing: Network traffic data will be pre-processed to remove noise and 
 inconsistencies. This may involve feature engineering, where relevant features are 
 extracted from the raw data for the ML model.
+
 • Classification: The trained ML model will classify incoming network traffic as normal 
 or under a DDoS attack based on the extracted features.
+
 • Prediction (Optional): Some models might be designed to predict the likelihood or 
 imminence of a DDoS attack based on real-time or historical traffic patterns.
 Deliverables:
+
 • An ML model capable of accurately classifying DDoS attacks within the network traffic 
 data.
+
 • (Optional) A system that predicts potential DDoS attacks based on the trained model.
 Benefits:
+
 • Improved network security by proactively identifying and mitigating DDoS attacks.
+
 • Reduced downtime and improved service availability for legitimate users.
+
 • Faster response times to DDoS attacks through real-time or predictive capabilities.
 Challenges:
+
 • Availability of large and diverse labelled datasets for training the ML model.
+
 • Continuously evolving DDoS attack techniques requiring the model to adapt and learn.
+
 • Balancing accuracy with computational efficiency for real-time deployment  
   
 
